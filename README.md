@@ -31,7 +31,6 @@ A dedicated and efficient Front-end Developer skilled and quick learner.
 
 <p dir="auto">
 <a href="https://github.com/sushantsharmaa/PEPPERFRY-CLONE-BACKEND"><img src="https://www.adgully.com/img/800/201711/pepperfrycomhfy_2.jpg" alt="Pluralsight" style="width: 18%; height: 60px;"></a>&nbsp;&nbsp;<a href="https://pepperfry-clone-silk.vercel.app/">view Project</a><br>
-<a href="https://github.com/mehtab39/projectfashionnova/tree/Bals"><img src="https://i.ibb.co/t3fJfV5/Capture3.png" alt="Fabindia" style="width: 17%; height: 60px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mehtab39.github.io/projectfashionnova/root/index.html">view Project</a><br>
   <a href="https://github.com/Sachi4496/faballey-clone"><img src="https://admin.optimisemedia.com/admin/client_logos/b0a413bd-5b74-40bf-a7ac-4d271f5e85d0.jpg" alt="Fabindia" style="width: 17%; height: 60px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://faballey-clone.vercel.app/">view Project</a>
 </p>
 <br/>

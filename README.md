@@ -4,7 +4,7 @@ A dedicated and efficient Front-end Developer skilled and quick learner.
 - 🌱 Passionate and dedicated aspiring front-end developer.
 - 👀 Keen to build and develop high-quality user-friendly platforms by using my technical knowledge and skills.
 - 👩‍ Eager to obtain a challenging position at a dynamic company to enhance my learning and contribute to exciting projects.
-##- 👨‍💻 All of my projects are available at My <a href="https://balamurugan-portfolio.vercel.app//">Portfolio</a>
+##- 👨‍💻 All of my projects are available at My <a href="#">Portfolio</a>
 - 📫 How to reach me ... via Mail lavansekaran21@gmail.com
 - ⚡ Fun fact: I love to pencil sketching, hearing music and dancing in my leisure time.
 
